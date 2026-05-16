@@ -160,11 +160,17 @@ Role-based MERN application for restaurant operations.
 
 <p align="center">
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=umugash&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umugash&theme=github_dark"/>
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=umugash&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umugash&theme=github_dark"/>
+
+<img width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umugash&theme=github_dark"/>
 
 </p>
 
@@ -174,7 +180,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=umugash&layo
 src="https://streak-stats.demolab.com?user=umugash&theme=radical&hide_border=true"/>
 
 </p>
-# ⚡ Coding Profiles
+## ⚡ Coding Profiles
 
 ### LeetCode
 
