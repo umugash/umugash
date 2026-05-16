@@ -57,17 +57,20 @@ GitHub
 
 •
 
-<a href="https://leetcode.com/u/NjEM2erX9A/">
-LeetCode
+<a href="mailto:umugash07@gmail.com">
+Email
 </a>
 
 •
 
-<a href="https://www.hackerrank.com/profile/mu3975">
-HackerRank
+<a href="tel:+919933209738">
+Mobile
 </a>
 
 </p>
+
+📧 Email: **umugash07@gmail.com**  
+📱 Phone: **+91 9933209738**
 
 ---
 
