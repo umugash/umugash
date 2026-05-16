@@ -160,38 +160,57 @@ Role-based MERN application for restaurant operations.
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umugash&theme=github_dark"/>
+<img width="90%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umugash&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img width="48%"
+<img width="45%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umugash&theme=github_dark"/>
 
-<img width="48%"
+<img width="45%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umugash&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img width="70%"
+<img width="75%"
 src="https://streak-stats.demolab.com?user=umugash&theme=radical&hide_border=true"/>
 
 </p>
-## ⚡ Coding Profiles
 
-### LeetCode
-
-https://leetcode.com/u/NjEM2erX9A/
-
-### HackerRank
-
-https://www.hackerrank.com/profile/mu3975
+<br>
 
 ---
 
+## ⚡ Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/NjEM2erX9A/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/mu3975">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://github.com/umugash">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<p align="center">
+
+💻 Solving problems consistently and improving ML + DSA skills
+
+</p>
+
+---
 # 📊 Current Goals (2026)
 
 ✔ Strengthen Machine Learning foundations
