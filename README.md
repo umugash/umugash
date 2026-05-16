@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mugash Priyan U</h1>
-<h3 align="center">M.Tech (Integrated) CSE - Data Science @ SRMIST KTR</h3>
+
+<h3 align="center">
+M.Tech (Integrated) CSE - Data Science @ SRM Institute of Science & Technology (KTR)
+</h3>
 
 <p align="center">
-Building ML systems • Research Projects • Full Stack Apps • Data Science
+Machine Learning • Data Science • Research • Full Stack Development
 </p>
 
 <p align="center">
@@ -11,78 +14,137 @@ Building ML systems • Research Projects • Full Stack Apps • Data Science
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-🎓 M.Tech (Integrated) CSE - Data Science student at **SRM Institute of Science & Technology (KTR)**
+🎓 M.Tech (Integrated) CSE - Data Science student at **SRMIST KTR**
 
 📊 Interested in:
+
 - Machine Learning & Deep Learning
-- Computer Vision & Environmental ML
+- Computer Vision & Environmental AI
 - Full Stack Development
 - Predictive Analytics
-- Research & AI systems
+- Research & Sustainability Systems
 
 🌱 Currently working on:
 
-- Urban Green Space Optimizer (U-Net + PyTorch)
-- Retail Web Application for Janaki Guru Enterprises
-- Groundwater prediction & sustainability projects
+- **Urban Green Space Optimizer** → AI system using U-Net segmentation
+- **Retail Web App** → Customer + Staff + Admin ecosystem
+- **Groundwater Prediction Projects**
+- Improving coding profiles & ML knowledge
 
-💼 Previous Experience:
+💼 Experience:
 
 **Data Science Intern — CodSoft**
 
+📍 Tamil Nadu, India
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/mugash-priyan-u-44b4a1259/">LinkedIn</a> •
-<a href="https://github.com/umugash">GitHub</a> •
-<a href="https://leetcode.com/u/NjEM2erX9A/">LeetCode</a> •
-<a href="https://www.hackerrank.com/profile/mu3975">HackerRank</a>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mugash-priyan-u-44b4a1259/">
+LinkedIn
+</a>
+
+•
+
+<a href="https://github.com/umugash">
+GitHub
+</a>
+
+•
+
+<a href="https://leetcode.com/u/NjEM2erX9A/">
+LeetCode
+</a>
+
+•
+
+<a href="https://www.hackerrank.com/profile/mu3975">
+HackerRank
+</a>
+
 </p>
 
 ---
 
-## 🛠 Languages & Tools
+## 🛠 Tech Stack
 
-<p>
+### Languages
 
 Python • Java • JavaScript • TypeScript • SQL
 
-PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy
+### Machine Learning / Data Science
+
+PyTorch • TensorFlow • Pandas • NumPy • Scikit-learn • OpenCV
+
+### Web Development
 
 React • Node.js • MongoDB • Supabase • FastAPI
 
-Git • GitHub • OpenCV • Jupyter
+### Tools
 
-</p>
+Git • GitHub • Jupyter • VS Code • Figma
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 ### 🌱 Urban Green Space Optimizer
-AI-powered sustainability system using U-Net segmentation and satellite imagery.
 
-### 🛒 Retail Web Application
-Retail ecosystem for Janaki Guru Enterprises:
-- Customer website
-- Staff APK
-- Admin Dashboard
-- Barcode & pricing systems
+AI-powered sustainability platform using:
 
-### 🍽 Restaurant Management System
-Role-based MERN application for restaurant operations.
+- U-Net CNN
+- PyTorch
+- FastAPI
+- Streamlit
+- Satellite imagery
 
-### 🎨 Chromatic Resurrection
-GAN-powered restoration & colorization of grayscale images.
+Generates:
+
+✔ Plantable zones  
+✔ CO₂ sequestration estimation  
+✔ Sustainability Index
 
 ---
 
-## 🏆 Certifications
+### 🛒 Retail Web Application
+
+Developed for **Janaki Guru Enterprises**
+
+Includes:
+
+- Customer website
+- Staff APK
+- Admin dashboard
+- Barcode scanning
+- Dynamic pricing
+- Inventory system
+
+---
+
+### 🎨 Chromatic Resurrection
+
+GAN-based AI system for:
+
+Black & White → Realistic Color Image Restoration
+
+Tech:
+
+TensorFlow • OpenCV • Deep Learning
+
+---
+
+### 🍽 Restaurant Management System
+
+Role-based MERN application for restaurant operations.
+
+---
+
+# 🏆 Certifications
 
 ✔ ISRO — Geodata Processing using Python
 
@@ -92,41 +154,59 @@ GAN-powered restoration & colorization of grayscale images.
 
 ✔ NIELIT — Frontend Development
 
-
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umugash&show_icons=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=umugash&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umugash"/>
+<img height="180em"
+src="https://streak-stats.demolab.com?user=umugash&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📊 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umugash&layout=compact"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=umugash&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## ⚡ Coding Profiles
+# ⚡ Coding Profiles
 
-LeetCode:
+### LeetCode
+
 https://leetcode.com/u/NjEM2erX9A/
 
-HackerRank:
+### HackerRank
+
 https://www.hackerrank.com/profile/mu3975
 
 ---
 
-### ✨ Quote
+# 📊 Current Goals (2026)
 
-> “Learning by building real-world projects.”
+✔ Strengthen Machine Learning foundations
+
+✔ Build production-ready projects
+
+✔ Research publication experience
+
+✔ Prepare for Data Science internships
+
+✔ Improve DSA & coding consistency
+
+---
+
+## ✨ Quote
+
+> "Learning by building real-world solutions."
