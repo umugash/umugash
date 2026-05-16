@@ -156,31 +156,24 @@ Role-based MERN application for restaurant operations.
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=umugash&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=umugash&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em"
-src="https://streak-stats.demolab.com?user=umugash&theme=tokyonight"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=umugash&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
-
----
-
-# 💻 Most Used Languages
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=umugash&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img width="70%"
+src="https://streak-stats.demolab.com?user=umugash&theme=radical&hide_border=true"/>
 
 </p>
-
----
-
 # ⚡ Coding Profiles
 
 ### LeetCode
