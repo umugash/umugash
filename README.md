@@ -161,7 +161,7 @@ Role-based MERN application for restaurant operations.
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=umugash&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=umugash&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
 <img height="180em"
 src="https://streak-stats.demolab.com?user=umugash&theme=tokyonight"/>
@@ -175,7 +175,7 @@ src="https://streak-stats.demolab.com?user=umugash&theme=tokyonight"/>
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=umugash&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=umugash&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
